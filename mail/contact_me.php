@@ -2,23 +2,23 @@
 $email_address = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
 
 // Check for empty fields
-if(empty($_POST['name'])  		||
-   empty($_POST['email']) 		||
-   empty($_POST['phone']) 		||
-   empty($_POST['message'])	||
+if(empty($_POST['nombre'])  		||
+   empty($_POST['correo']) 		||
+   empty($_POST['tel']) 		||
+   empty($_POST['mensaje'])	||
    !$email_address)
    {
 	echo "No arguments Provided!";
 	return false;
    }
 
-$name = $_POST['name'];
+$name = $_POST['nombre'];
 if ($email_address === FALSE) {
     echo 'Invalid email';
     exit(1);
 }
-$phone = $_POST['phone'];
-$message = $_POST['message'];
+$phone = $_POST['tel'];
+$message = $_POST['mensaje'];
 
 if (empty($_POST['_gotcha'])) { // If hidden field was filled out (by spambots) don't send!
     // Create the email and send the message
