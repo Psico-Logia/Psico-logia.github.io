@@ -1,5 +1,5 @@
 # Site settings
-title: "Psico.logia"
+title: "David Patiño"
 email: "davida.psicologia@gmail.com"
 url: "https://psico-logia.github.io"
 description: "Psico.logia Contactame a traves de esta pag" 
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+#contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -25,17 +25,17 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 0808C4 #0808C4
+  primary-rgb: "8,8,196" #"8,8,196"
+  secondary: 1B1B6F #1B1B6F
+  secondary-dark: 0B0B46 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Psico.logia
+  location: 
+  social: Sigueme en mis redes sociales 
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -45,10 +45,10 @@ social:
     url: https://www.tiktok.com/@psico.logia
   - title: whatsapp
     url: https://wa.me/message/DTLMV4VSDUUJI1
-  - title: gmail
-    url: <a href="mailto:davida.patino@gmail.com"> Contactame </a>
-  - title: github
-    url: http://github.com/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/david-psico-logia/
+  - title: 
+    url: 
 
 # Postal address (add as many lines as necessary)
 #address:
