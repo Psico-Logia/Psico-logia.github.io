@@ -1,11 +1,11 @@
 # Site settings
-title: Psico.logia
-email: davida.psicologia@gmail.com
-url: https://psico-logia.github.io/Homepage/
-description: Psico.logia Contactame a traves de esta pag 
-keywords: psico.logia, psicologia, psicología, david patiño, david psicologo
-skills: Psicólogo - Experto en terapias de tercera generación
-meta_author: Patiño David
+title: "Psico.logia"
+email: "davida.psicologia@gmail.com"
+url: "https://psico-logia.github.io"
+description: "Psico.logia Contactame a traves de esta pag" 
+keywords: "psico.logia, psicologia, psicología, david patiño, david psicologo"
+skills: "Psicólogo - Experto en terapias de tercera generación"
+meta_author: "Patiño David"
 
 # Google webmaster tools
 google_verify:
