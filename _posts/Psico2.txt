@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-12-18
-img: game.png
+img: psico2.png
 alt: image-alt
 project-date: Dec 2022
 client: @Psico.logia.co
