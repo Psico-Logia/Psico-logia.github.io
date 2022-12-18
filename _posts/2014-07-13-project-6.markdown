@@ -1,11 +1,20 @@
 ---
-layout: default
-modal-id: 6
-date: 2014-07-15
-img: submarine.png
+layout: Divulgación de la psicología científica 
+modal-id: 
+date: 2022-12-18
+img: psico3.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Dec 2022
+client: @psico.logia.co
+category: Divulgación de la psicología científica 
+description: La psicología científica o basada en la evidencia se refiere a la práctica de la psicología que se basa en principios y teorías científicos, y utiliza métodos científicos para evaluar y demostrar su efectividad. Esto significa que la psicología científica o basada en la evidencia se basa en la investigación y en la evidencia empírica, en lugar de en la creencia o la opinión personal.
+
+Hay varias razones por las que la difusión de la psicología científica o basada en la evidencia es importante:
+
+-Ayuda a garantizar que la psicología se base en hechos y no en suposiciones o creencias personales.
+-Permite a los profesionales de la psicología ofrecer tratamientos y intervenciones efectivos y basados en la evidencia, en lugar de utilizar métodos que no han sido demostrados como efectivos.
+-Ayuda a proteger a las personas de tratamientos ineficaces o potencialmente dañinos.
+-Contribuye a la confianza del público en la psicología como una disciplina científica y respetada.
+
+En resumen, la difusión de la psicología científica o basada en la evidencia es importante porque nos ayuda a asegurar que la psicología se base en hechos y en la evidencia empírica, y nos permite ofrecer tratamientos y intervenciones efectivos y seguros a nuestros clientes.
 ---

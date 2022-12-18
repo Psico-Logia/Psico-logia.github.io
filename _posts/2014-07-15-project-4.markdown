@@ -1,11 +1,15 @@
 ---
-layout: default
-modal-id: 4
-date: 2014-07-15
-img: game.png
+layout: Psicoterapia individual 
+modal-id: 
+date: 2022-12-18
+img: psico1.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Dec 2022
+client: @Psico.logia.co
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Hola a todos, soy David Patiño de @psico.logia.co y quiero hablarles sobre mi enfoque en la psicoterapia basada en la evidencia. En mi práctica, utilizo terapias probadas para ayudar a mis clientes a lograr sus metas y mejorar su bienestar. Uno de los enfoques en los que me especializo es la terapia cognitivo-conductual, que me ayuda a identificar y cambiar patrones de pensamiento y comportamientos negativos que me están limitando.
+
+Además de la terapia cognitivo-conductual, también ofrezco una gama de otros enfoques basados en la evidencia, como las terapias basadas en la atención plena y la terapia enfocada en soluciones y la terapia de aceptación y compromiso ACT. Trabajo con mis clientes para determinar el mejor curso de tratamiento basándome en sus necesidades y metas únicas.
+
+Si estás interesado en obtener más información sobre mis servicios o en programar una cita, no dudes en ponerte en contacto conmigo. Estaré encantado de responder cualquier pregunta que tengas y discutir cómo puedo apoyarte en tu camino hacia la curación y el crecimiento. ¡Espero tener noticias tuyas pronto!
 ---

@@ -1,11 +1,17 @@
 ---
-layout: default
-modal-id: 5
-date: 2014-07-14
-img: safe.png
+layout: Terapia de pareja
+modal-id: 
+date: 2022-18-12
+img: psico2.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Dec 2022
+client: @Psico.logia.co
+category: Psicoterapia de pareja 
+description: "¿Estás buscando una manera de fortalecer tu relación con tu pareja? Considere la terapia de pareja. Aquí hay algunas razones por las que puede ser una herramienta valiosa para mejorar la comunicación, resolver conflictos y construir una conexión más profunda:
+
+La terapia de pareja brinda un espacio seguro y sin juicios para que las parejas puedan expresar sus pensamientos y sentimientos de manera abierta y honesta.
+La terapia de pareja puede ayudar a las parejas a identificar y resolver problemas subyacentes en su relación, como la falta de comunicación o la falta de conexión emocional.
+La terapia de pareja puede ayudar a las parejas a aprender nuevas habilidades y herramientas para mejorar su comunicación y resolver conflictos de manera más saludable.
+La terapia de pareja puede ayudar a las parejas a reconectarse y fortalecer su vínculo a medida que trabajan juntos para superar obstáculos y mejorar su relación.
+Si estás interesado en obtener más información sobre nuestros servicios de terapia de pareja o en programar una cita, no dudes en ponerte en contacto con nosotros. Estaremos encantados de responder cualquier pregunta que tengas y discutir cómo podemos apoyarte y a tu pareja en su camino hacia una relación más fuerte y saludable."
 ---
