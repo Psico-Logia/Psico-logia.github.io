@@ -1,8 +1,8 @@
 ---
-layout: Terapia de pareja
+layout: default
 modal-id: 2
-date: 2022-18-12
-img: psico2.png
+date: 2022-12-18
+img: game.png
 alt: image-alt
 project-date: Dec 2022
 client: @Psico.logia.co
