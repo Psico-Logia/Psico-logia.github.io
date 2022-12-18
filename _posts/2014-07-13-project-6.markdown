@@ -1,6 +1,6 @@
 ---
 layout: Divulgación de la psicología científica 
-modal-id: 
+modal-id: 3
 date: 2022-12-18
 img: psico3.png
 alt: image-alt

@@ -1,6 +1,6 @@
 ---
 layout: Terapia de pareja
-modal-id: 
+modal-id: 2
 date: 2022-18-12
 img: psico2.png
 alt: image-alt
